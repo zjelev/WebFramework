@@ -1,2 +1,2 @@
 # WebFramework
-Simplified ASP.NET like framework 
+Simplified ASP.NET-like framework.
